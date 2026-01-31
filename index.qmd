@@ -7,7 +7,7 @@ title: "MUSA 5080 Portfolio"
 This portfolio documents my learning journey in Public Policy Analytics (MUSA 5080).
 
 ## About This Course
-Advanced spatial analysis and data science for urban planning and public policy.
+This Course it little bit tricky because it composes on programming techniques specially the R expertise and a bulk of knowledge to the associated plugins 
 
 ## Portfolio Structure
 - **Weekly Notes:** My learning reflections and key concepts
@@ -15,7 +15,7 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-4777777777777777774555454545454545454
+I am at Upenn to burn midnight oil in research after gaining almost 14 years of extensive field experience in town planning and policy formulation at a key government level. I aim to pursue a Doctor of Philosophy degree in my field and conduct practical research for personal development as well as for the betterment of my profession.
 
 ## Contact
 - Email: [umsaad@upenn.edu]
