@@ -10,7 +10,7 @@ website:
         text: Home
       - text: Labs
         menu:
-          - href: https://zyang91.github.io/PPA_portfolio/lab/lab_0/index.qmd
+          - href: https://zyang91.github.io/PPA_portfolio/lab/lab_0/
             text: "Lab 0: dplyr Basics"
 format:
   html:
