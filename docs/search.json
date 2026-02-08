@@ -4,7 +4,7 @@
     "href": "lab_0/lab0_template.html",
     "title": "Lab 0: Getting Started with dplyr",
     "section": "",
-    "text": "Welcome to your first lab! In this (not graded) assignment, you’ll practice the fundamental dplyr operations I overviewed in class using car sales data. This lab will help you get comfortable with:\n\nBasic data exploration\nColumn selection and manipulation\n\nCreating new variables\nFiltering data\nGrouping and summarizing\n\nInstructions: Copy this template into your portfolio repository under a lab_0/ folder, then complete each section with your code and answers. You will write the code under the comment section in each chunk. Be sure to also copy the data folder into your lab_0 folder."
+    "text": "Welcome 22to your first lab! In this (not graded) assignment, you’ll practice the fundamental dplyr operations I overviewed in class using car sales data. This lab will help you get comfortable with:\n\nBasic data exploration\nColumn selection and manipulation\n\nCreating new variables\nFiltering data\nGrouping and summarizing\n\nInstructions: Copy this template into your portfolio repository under a lab_0/ folder, then complete each section with your code and answers. You will write the code under the comment section in each chunk. Be sure to also copy the data folder into your lab_0 folder."
   },
   {
     "objectID": "lab_0/lab0_template.html#data-structure-exploration",
