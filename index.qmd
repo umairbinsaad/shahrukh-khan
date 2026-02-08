@@ -1,5 +1,5 @@
 ---
-title: "MUSA 5080 Portfolio"
+title: "MUSAA 5080 Portfolio"
 ---
 
 # Welcome to My Portfolio
