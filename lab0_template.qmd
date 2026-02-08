@@ -1,5 +1,5 @@
 ---
-title: "Lab 0: Getting Started with dplyr"
+title: "Lab 0: Gejtting Started with dplyr"
 subtitle: "Your First Data Analysis"
 author: "Your Name Here"
 date: today
