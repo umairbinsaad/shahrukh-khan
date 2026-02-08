@@ -18,5 +18,5 @@ This Course it little bit tricky because it composes on programming techniques s
 I am at Upenn to burn midnight oil in research after gaining almost 14 years of extensive field experience in town planning and policy formulation at a key government level. I aim to pursue a Doctor of Philosophy degree in my field and conduct practical research for personal development as well as for the betterment of my profession.
 
 ## Contact
-- Email: [umsaad@upenn.edujj]
+- Email: [umsaad@upenn.edu]
 - GitHub: [https://github.com/umairbinsaad/shahrukh-khan]
