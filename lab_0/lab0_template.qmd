@@ -16,7 +16,7 @@ execute:
 
 # Overview
 
-Welcome 2222to your first lab! In this (not graded) assignment, you'll practice the fundamental dplyr operations I overviewed in class using car sales data. This lab will help you get comfortable with:
+Welcome 224444444422to your first lab! In this (not graded) assignment, you'll practice the fundamental dplyr operations I overviewed in class using car sales data. This lab will help you get comfortable with:
 
 - Basic data exploration
 - Column selection and manipulation  
